@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "ecs",
+	"Description": "ecs framework",
+	"Category": "Frameworks",
+	"CreatedBy": "zerostudio",
+	"CreatedByURL": "",
+	"DocsURL": "https://youtu.be/38FQrsdcVfM",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/2b804d9bf79e41789813b3472d55751b",
+	"SupportURL": "",
+	"EngineVersion": "4.24.0",
+	"WhitelistPlatforms":["Win64","Win32","IOS","Android"],
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "ecs",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
